@@ -32,7 +32,7 @@ import (
 
 const (
 	dashboardDirExtractTo = "/opt/ceph-container/sree/"
-	dashboardDir          = dashboardDirExtractTo + "Sree-0.1/"
+	dashboardDir          = dashboardDirExtractTo + "Sree-0.2/"
 )
 
 var (
